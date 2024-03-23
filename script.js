@@ -29,7 +29,7 @@ const filmes = [
     },
     {
      id:4,
-     nome: 'A Lagoa Azul',
+     nome: 'Simplesmente acontece',
      genero: 'romance',
      lancamento: 1983
 }]
@@ -106,7 +106,7 @@ btn1.addEventListener('click',()=>{
     inputUsuario.value = ''
 })
 /*
-Função corrigaaaaaa
+Função diva
 */
 
 const favoritoClicado = (eventoDeClique) => {
